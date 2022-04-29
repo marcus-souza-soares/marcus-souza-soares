@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hello, World! ;)
+#### My name is Marcus Vinicius,
 
-<!--
-**marcus-souza-soares/marcus-souza-soares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**FullStack Development** student at **DRIVEN EDUCATION**. Learning to work with technologies such as React, NodeJS, Cloud Computing, code versioning, among others and addition to Fundamentals of Computing. I'm majoring in Mathematics, but I'm also passionate about problem solving.
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
