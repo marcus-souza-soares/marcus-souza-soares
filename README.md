@@ -18,9 +18,10 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></br></br>
 
+### Talk with me:
+<a href="https://www.linkedin.com/in/marcus-vinicius-de-souza-soares-2710a91b8/"><img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a></br></br></br>
+
 ### Github status
    <img align="left" alt="Marcus GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcus-souza-soares&show_icons=true&hide_border=true">
-   <img align="left" alt="Marcus GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-souza-soares" /></br></br></br></br></br></br></br></br></br>
+   <img align="left" alt="Marcus GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-souza-soares" />
    
-### Talk with me:
-<a href="https://www.linkedin.com/in/marcus-vinicius-de-souza-soares-2710a91b8/"><img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></br></a>
