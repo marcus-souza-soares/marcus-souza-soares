@@ -20,7 +20,7 @@
 
 ### Github status
    <img align="left" alt="Marcus GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcus-souza-soares&show_icons=true&hide_border=true">
-   <img align="left" alt="Marcus GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-souza-soares" /></br></br></br></br></br></br></br></br>
+   <img align="left" alt="Marcus GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-souza-soares" /></br></br></br></br></br></br></br></br></br>
    
 ### Talk with me:
 <a href="https://www.linkedin.com/in/marcus-vinicius-de-souza-soares-2710a91b8/"><img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></br></a>
