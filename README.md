@@ -3,6 +3,9 @@
 
 **FullStack Development** student at **DRIVEN EDUCATION**. Learning to work with technologies such as React, NodeJS, Cloud Computing, code versioning, among others and addition to Fundamentals of Computing. I'm majoring in Mathematics, but I'm also passionate about problem solving.
 
+### Talke to me:
+<a href="https://www.linkedin.com/in/marcus-vinicius-de-souza-soares-2710a91b8/"><img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></br></a>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
