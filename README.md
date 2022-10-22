@@ -3,7 +3,7 @@
 
 **FullStack Development** student at **DRIVEN EDUCATION**. Learning to work with technologies such as React, NodeJS, Cloud Computing, code versioning, among others and addition to Fundamentals of Computing. I'm majoring in Mathematics, but I'm also passionate about problem solving.
 
-## Technologies that I'm learning:
+## Technologies that I'm using:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
