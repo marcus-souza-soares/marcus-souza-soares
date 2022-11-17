@@ -18,7 +18,8 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### Talk with me:
-<a href="https://www.linkedin.com/in/marcus-vinicius-de-souza-soares-2710a91b8/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a></br></br></br>
+<a href="https://www.linkedin.com/in/marcus-vinicius-de-souza-soares-2710a91b8/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+<a href=mailto:marcus.devfs@gmail.com>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<a/>
 
 ### Github status
    <img align="left" alt="Marcus GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcus-souza-soares&show_icons=true&hide_border=true">
