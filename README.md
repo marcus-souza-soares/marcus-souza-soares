@@ -3,6 +3,8 @@
 
 **FullStack Development** student at **DRIVEN EDUCATION**. Learning to work with technologies such as React, NodeJS, Cloud Computing, code versioning, among others and addition to Fundamentals of Computing. I'm majoring in Mathematics, but I'm also passionate about problem solving.
 
+Today, I work at CircleSoft using some technologies like: Ruby on Rails, Vue.Js, Docker, JQuery, Bootstrap and more.
+
 ## Technologies that I'm using:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
