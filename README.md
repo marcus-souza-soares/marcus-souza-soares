@@ -1,7 +1,7 @@
 ### Hello, World! ;)
 #### My name is Marcus Vinicius,
 
-**FullStack Development** student at **DRIVEN EDUCATION**. Learning to work with technologies such as React, NodeJS, Cloud Computing, code versioning, among others and addition to Fundamentals of Computing. I'm majoring in Mathematics, but I'm also passionate about problem solving.
+I'm a **FullStack Development**. I use some technologies such as React, VueJs, NodeJS, Cloud Computing, code versioning, among others and addition to Fundamentals of Computing. I'm majoring in Mathematics, but I'm also passionate about problem solving.
 
 Today, **I work at ___CircleSoft___** using some technologies like: Ruby on Rails, Vue.Js, Docker, JQuery, Bootstrap and more.
 
