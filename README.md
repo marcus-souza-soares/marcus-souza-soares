@@ -26,6 +26,4 @@ Today, **I work at ___CircleSoft___** using some technologies like: Ruby on Rail
 <a href=mailto:marcus.devfs@gmail.com>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)<a/>
 
 ### Github status
-   <img align="left" alt="Marcus GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcus-souza-soares&show_icons=true&hide_border=true">
-   <img align="left" alt="Marcus GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcus-souza-soares" />
-   
+   <img src="https://readme-badge.vercel.app/api/card?username=marcus-souza-soares" alt="Marcus GitHub Top Languages" width="100%" />   
